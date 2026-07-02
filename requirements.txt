@@ -1,0 +1,10 @@
+transformers==4.41.2
+sentence-transformers==2.2.2
+chromadb==0.4.20
+numpy
+pandas
+kagglehub
+matplotlib
+scikit-learn
+torch
+jupyter
